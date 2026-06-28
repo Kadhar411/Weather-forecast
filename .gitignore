@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# Portable Node.js
+.node/
+
+# SQLite database
+weather.db
+
+# Vercel local config
+.vercel/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
